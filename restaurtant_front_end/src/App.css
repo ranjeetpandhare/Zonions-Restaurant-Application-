@@ -1,0 +1,13 @@
+
+.App {
+  text-align: center;
+  background-image: url("https://media.istockphoto.com/photos/blurred-of-restaurant-with-bokeh-lights-background-and-wood-table-picture-id666180930?k=6&m=666180930&s=170667a&w=0&h=4y7wnFzVaa59Rnx9FNWg5SZrEzvskgljfXgIdG3lZzg=");
+  position: absolute;
+  min-width: 100%;
+  min-height: 20%;
+  background-size:cover;
+  background-position: center;
+  opacity: 1.0;
+  /* background-color:lightblue; */
+}
+
